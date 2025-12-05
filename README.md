@@ -1,6 +1,6 @@
-#  :fa-shopping-cart: Modelo BD - para un supermercado
+#  🛒 Modelo BD - para un supermercado
 
-#### Diseño: Realizado en draw.io :fa-pencil-square-o:
+#### Diseño: Realizado en draw.io 🖊
 
 - Se diseñó un modelo para representar un sistema de bases de datos relacional para un supermercado (como mediana empresa).
 
